@@ -23,7 +23,6 @@ I enjoy building modern web and mobile applications with clean UI, scalable arch
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=sudenazisci&label=Profile%20Views&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -96,10 +95,6 @@ I enjoy building modern web and mobile applications with clean UI, scalable arch
 
 ---
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together+🚀"
-  alt="Closing animation"
-/>
 
 ⭐ Thanks for visiting my profile!
 
