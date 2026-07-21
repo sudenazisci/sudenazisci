@@ -10,7 +10,7 @@ I enjoy building modern web and mobile applications with clean UI, scalable arch
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 Computer Engineering — Selçuk University (2022–2026)
 - 💻 Full-Stack Developer
@@ -20,7 +20,7 @@ I enjoy building modern web and mobile applications with clean UI, scalable arch
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/sude-naz-isci/
 - 🌍 Portfolio: https://portfolio-sudenaz.vercel.app/
@@ -28,7 +28,7 @@ I enjoy building modern web and mobile applications with clean UI, scalable arch
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 ### Languages
 - C
