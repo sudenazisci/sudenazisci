@@ -96,37 +96,6 @@ I enjoy building modern web and mobile applications with clean UI, scalable arch
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=sudenazisci&show_icons=true&hide_border=true&rank_icon=github"
-  height="165"
-  alt="GitHub statistics"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudenazisci&layout=compact&hide_border=true"
-  height="165"
-  alt="Most used languages"
-/>
-
-</div>
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com?user=sudenazisci&hide_border=true"
-  alt="GitHub streak"
-/>
-
-</div>
-
----
-
-<div align="center">
-
 <img
   src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together+🚀"
   alt="Closing animation"
