@@ -1,16 +1,94 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Sude Naz İşci</h1>
 
-<!--
-**sudenazisci/sudenazisci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Computer Engineer | Full-Stack Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I enjoy building modern web and mobile applications with clean UI, scalable architecture, and great user experience.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Engineering — Selçuk University (2022–2026)
+- 💻 Full-Stack Developer
+- 🌱 Currently learning advanced React, Next.js and AI technologies
+- 🤝 Open to freelance opportunities and collaborations
+- 📍 Ankara, Türkiye
+
+---
+
+## 🌐 Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/sude-naz-isci/
+- 🌍 Portfolio: https://portfolio-sudenaz.vercel.app/
+- 📧 Email: sudenazisci@gmail.com
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+- C
+- C++
+- C#
+- Python
+- JavaScript
+- TypeScript
+- HTML5
+- CSS3
+- SQL
+- Dart
+
+### Frontend
+- React
+- Next.js
+- Three.js
+- Tailwind CSS
+- Bootstrap
+
+### Backend
+- Node.js
+- Express.js
+- REST API
+
+### Mobile
+- Flutter
+
+### Databases
+- PostgreSQL
+- MongoDB
+- Firebase
+- Cloud Firestore
+
+### Tools & Platforms
+- Git
+- GitHub
+- Docker
+- Postman
+- VS Code
+- Figma
+- Vercel
+- Render
+
+---
+
+## ⭐ Featured Projects
+
+### 🎓 KDS Akademi
+A modern academy website featuring responsive design, animations, and an improved user experience.
+
+### 🌱 ElitePlants
+Corporate website developed with React and Next.js.
+
+### 📱 Codenity
+An AI-assisted collaboration platform connecting developers, project managers, and investors.
+
+### 🤖 Customer Journey AI
+AI-powered dashboard for customer behavior analysis and purchase prediction.
+
+---
+
+⭐ Thanks for visiting my profile!
