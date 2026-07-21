@@ -1,16 +1,35 @@
-<h1 align="center">Hi 👋, I'm Sude Naz İşci</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Engineer | Full-Stack Developer
-</h3>
+# Hi 👋, I'm Sude Naz İşci
 
-<p align="center">
+<img
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Engineer;Full-Stack+Developer;React+%7C+Next.js+%7C+Flutter;Building+Modern+Web+%26+Mobile+Applications"
+  alt="Typing animation"
+/>
+
+<p>
 I enjoy building modern web and mobile applications with clean UI, scalable architecture, and great user experience.
 </p>
 
+<p>
+  <a href="https://portfolio-sudenaz.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sude-naz-isci/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sudenazisci@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=sudenazisci&label=Profile%20Views&style=flat-square" alt="Profile views"/>
+
+</div>
+
 ---
 
-##  About Me
+## 👩‍💻 About Me
 
 - 🎓 Computer Engineering — Selçuk University (2022–2026)
 - 💻 Full-Stack Developer
@@ -19,59 +38,100 @@ I enjoy building modern web and mobile applications with clean UI, scalable arch
 
 ---
 
-## Connect with Me
+## 🤝 Connect with Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/sude-naz-isci/
-- 🌍 Portfolio: https://portfolio-sudenaz.vercel.app/
-- 📧 Email: sudenazisci@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/sude-naz-isci/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="42" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://portfolio-sudenaz.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" width="42" alt="Portfolio"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sudenazisci@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="42" alt="Email"/>
+  </a>
+</p>
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
-- C
-- C++
-- C#
-- Python
-- JavaScript
-- TypeScript
-- HTML5
-- CSS3
-- SQL
-- Dart
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,javascript,typescript,html,css,dart" alt="Languages"/>
+</p>
 
 ### Frontend
-- React
-- Next.js
-- Three.js
-- Tailwind CSS
-- Bootstrap
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,tailwind,bootstrap" alt="Frontend"/>
+</p>
 
 ### Backend
-- Node.js
-- Express.js
-- REST API
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend"/>
+</p>
 
 ### Mobile
-- Flutter
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Mobile"/>
+</p>
 
 ### Databases
-- PostgreSQL
-- MongoDB
-- Firebase
-- Cloud Firestore
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,firebase" alt="Databases"/>
+</p>
 
 ### Tools & Platforms
-- Git
-- GitHub
-- Docker
-- Postman
-- VS Code
-- Figma
-- Vercel
-- Render
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,vercel" alt="Tools"/>
+</p>
 
 ---
 
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=sudenazisci&show_icons=true&hide_border=true&rank_icon=github"
+  height="165"
+  alt="GitHub statistics"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudenazisci&layout=compact&hide_border=true"
+  height="165"
+  alt="Most used languages"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+  src="https://streak-stats.demolab.com?user=sudenazisci&hide_border=true"
+  alt="GitHub streak"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+great+together+🚀"
+  alt="Closing animation"
+/>
+
 ⭐ Thanks for visiting my profile!
+
+</div>
