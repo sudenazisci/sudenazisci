@@ -32,7 +32,6 @@ I enjoy building modern web and mobile applications with clean UI, scalable arch
 
 - 🎓 Computer Engineering — Selçuk University (2022–2026)
 - 💻 Full-Stack Developer
-- 🤝 Open to freelance opportunities and collaborations
 - 📍 Ankara, Türkiye
 
 ---
