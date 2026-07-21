@@ -14,7 +14,6 @@ I enjoy building modern web and mobile applications with clean UI, scalable arch
 
 - 🎓 Computer Engineering — Selçuk University (2022–2026)
 - 💻 Full-Stack Developer
-- 🌱 Currently learning advanced React, Next.js and AI technologies
 - 🤝 Open to freelance opportunities and collaborations
 - 📍 Ankara, Türkiye
 
