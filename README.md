@@ -75,20 +75,4 @@ I enjoy building modern web and mobile applications with clean UI, scalable arch
 
 ---
 
-## ⭐ Featured Projects
-
-### 🎓 KDS Akademi
-A modern academy website featuring responsive design, animations, and an improved user experience.
-
-### 🌱 ElitePlants
-Corporate website developed with React and Next.js.
-
-### 📱 Codenity
-An AI-assisted collaboration platform connecting developers, project managers, and investors.
-
-### 🤖 Customer Journey AI
-AI-powered dashboard for customer behavior analysis and purchase prediction.
-
----
-
 ⭐ Thanks for visiting my profile!
