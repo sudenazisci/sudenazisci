@@ -16,18 +16,22 @@
 <br/>
 
 <p align="center">
+
   <img
-    src="https://img.shields.io/badge/🎓_Computer_Engineer-EC4899?style=for-the-badge"
+    src="https://img.shields.io/badge/Computer_Engineer-EC4899?style=for-the-badge&logo=academia&logoColor=white"
     alt="Computer Engineer"
   />
+
   <img
-    src="https://img.shields.io/badge/💻_Full--Stack_Developer-9333EA?style=for-the-badge"
+    src="https://img.shields.io/badge/Full--Stack_Developer-9333EA?style=for-the-badge&logo=visualstudiocode&logoColor=white"
     alt="Full-Stack Developer"
   />
+
   <img
-    src="https://img.shields.io/badge/🚀_Open_to_Opportunities-0EA5E9?style=for-the-badge"
-    alt="Open to Opportunities"
+    src="https://img.shields.io/badge/React_•_Next.js_•_Flutter-0EA5E9?style=for-the-badge"
+    alt="React Next.js Flutter"
   />
+
 </p>
 
 <br/>
@@ -79,6 +83,7 @@
 ## 👩‍💻 About Me
 
 <table>
+
 <tr>
 
 <td width="58%" valign="top">
@@ -101,7 +106,6 @@ I enjoy transforming creative ideas into modern, responsive and user-focused dig
 - 🎨 Creating responsive, accessible and user-friendly interfaces
 - 🚀 Interested in scalable architectures and real-world projects
 - 📍 Based in **Ankara, Türkiye**
-- 💬 Ask me about **React, Next.js, JavaScript, Flutter and Node.js**
 - 📫 Reach me at **sudenazisci@gmail.com**
 
 </td>
@@ -110,20 +114,21 @@ I enjoy transforming creative ideas into modern, responsive and user-focused dig
 
 <img
   width="360"
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  alt="Coding animation"
+  src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"
+  alt="Woman developer coding animation"
 />
 
 <br/><br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=17&duration=1800&pause=500&color=EC4899&center=true&vCenter=true&width=380&height=45&lines=Think+%F0%9F%92%AD;Design+%F0%9F%8E%A8;Develop+%F0%9F%92%BB;Test+%F0%9F%A7%AA;Improve+%F0%9F%9A%80;Repeat+%F0%9F%94%81"
-  alt="Development process"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=17&duration=1800&pause=500&color=EC4899&center=true&vCenter=true&width=380&height=45&lines=Think+%F0%9F%92%AD;Design+%F0%9F%8E%A8;Develop+%F0%9F%92%BB;Create+%E2%9C%A8;Improve+%F0%9F%9A%80;Repeat+%F0%9F%94%81"
+  alt="Development animation"
 />
 
 </td>
 
 </tr>
+
 </table>
 
 <br/>
@@ -131,7 +136,7 @@ I enjoy transforming creative ideas into modern, responsive and user-focused dig
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=2500&pause=900&color=0EA5E9&center=true&vCenter=true&width=760&lines=Code+is+where+creativity+meets+logic+%E2%9C%A8;Every+project+is+a+new+opportunity+to+learn+%F0%9F%9A%80"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=18&duration=2500&pause=900&color=0EA5E9&center=true&vCenter=true&width=760&lines=Code+is+where+creativity+meets+logic+%E2%9C%A8;Every+project+is+a+new+opportunity+to+learn+%F0%9F%9A%80;Creating+digital+experiences+with+passion+%F0%9F%92%9C"
   alt="Developer quote"
 />
 
@@ -223,60 +228,6 @@ Python applications
 
 ---
 
-<!-- ===================== CURRENTLY ===================== -->
-
-## 💫 Currently
-
-<div align="center">
-
-<table>
-
-<tr>
-
-<td width="33%" align="center" valign="top">
-
-### 🌱 Learning
-
-Next.js Architecture  
-Advanced Flutter  
-Artificial Intelligence  
-Clean Architecture  
-Modern UI Animations
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### 🔨 Building
-
-Full-Stack Projects  
-Mobile Applications  
-Interactive Websites  
-REST APIs  
-Creative Interfaces
-
-</td>
-
-<td width="33%" align="center" valign="top">
-
-### 🎯 Goals
-
-Scalable Applications  
-Clean and Maintainable Code  
-Great User Experience  
-Real-World Projects  
-Continuous Improvement
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
 <!-- ===================== TECH STACK ===================== -->
 
 ## 🛠️ Tech Stack
@@ -284,7 +235,7 @@ Continuous Improvement
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=2400&pause=850&color=9333EA&center=true&vCenter=true&width=750&height=50&lines=Technologies+I+use+to+bring+ideas+to+life+%E2%9C%A8;My+favorite+tools+for+building+digital+experiences+%F0%9F%92%BB"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=2400&pause=850&color=9333EA&center=true&vCenter=true&width=750&height=50&lines=Technologies+I+use+to+bring+ideas+to+life+%E2%9C%A8;My+favorite+tools+for+building+digital+experiences+%F0%9F%92%BB;Modern+technologies+for+modern+applications+%F0%9F%9A%80"
   alt="Technology animation"
 />
 
@@ -368,9 +319,9 @@ Continuous Improvement
 
 ---
 
-<!-- ===================== DEVELOPMENT JOURNEY ===================== -->
+<!-- ===================== PROJECT TYPES ===================== -->
 
-## 🧩 My Development Process
+## ✨ What I Enjoy Building
 
 <div align="center">
 
@@ -378,68 +329,71 @@ Continuous Improvement
 
 <tr>
 
-<td align="center">
+<td width="25%" align="center" valign="top">
 
-### 01
+### 🌍
 
-💭
+**Modern Websites**
 
-**Discover**
+Responsive and engaging  
+web experiences
 
-Understanding the idea,  
-requirements and users.
+<br/>
 
-</td>
-
-<td align="center">
-
-### 02
-
-🎨
-
-**Design**
-
-Creating clean, modern  
-and responsive interfaces.
+React  
+Next.js  
+Tailwind CSS
 
 </td>
 
-<td align="center">
+<td width="25%" align="center" valign="top">
 
-### 03
+### 📲
 
-💻
+**Mobile Apps**
 
-**Develop**
+Cross-platform Flutter  
+applications
 
-Building maintainable  
-and scalable applications.
+<br/>
 
-</td>
-
-<td align="center">
-
-### 04
-
-🧪
-
-**Test**
-
-Improving performance,  
-accessibility and reliability.
+Flutter  
+Dart  
+Firebase
 
 </td>
 
-<td align="center">
+<td width="25%" align="center" valign="top">
 
-### 05
+### 🔗
 
-🚀
+**Full-Stack Systems**
 
-**Launch**
+Frontend, backend and  
+database integrations
 
-Deploying and continuously  
-improving the product.
+<br/>
+
+Node.js  
+Express  
+REST API
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 🧠
+
+**AI Projects**
+
+Machine learning and  
+image processing solutions
+
+<br/>
+
+Python  
+TensorFlow  
+OpenCV
 
 </td>
 
@@ -451,63 +405,38 @@ improving the product.
 
 ---
 
-<!-- ===================== PROJECT TYPES ===================== -->
+<!-- ===================== CREATIVE CODING ===================== -->
 
-## ✨ What I Enjoy Building
+## 💜 Creative Coding
 
 <div align="center">
 
-<table>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2100&pause=700&color=EC4899&center=true&vCenter=true&width=850&height=60&lines=From+an+idea+to+a+real+digital+product+%E2%9C%A8;Clean+code+%2B+Creative+design+%2B+Great+experience;Building+interfaces+that+people+enjoy+using+%F0%9F%92%9C"
+  alt="Creative coding animation"
+/>
 
-<tr>
+<br/>
 
-<td width="25%" align="center">
+<img
+  src="https://img.shields.io/badge/Clean_Code-EC4899?style=for-the-badge&logo=codacy&logoColor=white"
+  alt="Clean Code"
+/>
 
-### 🌍
+<img
+  src="https://img.shields.io/badge/Responsive_Design-9333EA?style=for-the-badge&logo=responsive&logoColor=white"
+  alt="Responsive Design"
+/>
 
-**Modern Websites**
+<img
+  src="https://img.shields.io/badge/User_Experience-0EA5E9?style=for-the-badge&logo=figma&logoColor=white"
+  alt="User Experience"
+/>
 
-Responsive and engaging  
-web experiences
-
-</td>
-
-<td width="25%" align="center">
-
-### 📲
-
-**Mobile Apps**
-
-Cross-platform Flutter  
-applications
-
-</td>
-
-<td width="25%" align="center">
-
-### 🔗
-
-**Full-Stack Systems**
-
-Frontend, backend and  
-database integrations
-
-</td>
-
-<td width="25%" align="center">
-
-### 🧠
-
-**AI Projects**
-
-Machine learning and  
-image processing solutions
-
-</td>
-
-</tr>
-
-</table>
+<img
+  src="https://img.shields.io/badge/Scalable_Architecture-7C3AED?style=for-the-badge&logo=architecture&logoColor=white"
+  alt="Scalable Architecture"
+/>
 
 </div>
 
@@ -520,7 +449,7 @@ image processing solutions
 <div align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=2300&pause=800&color=0EA5E9&center=true&vCenter=true&width=780&height=55&lines=Have+an+idea%3F+Let's+build+it+together+%F0%9F%9A%80;Open+to+collaborations+and+new+opportunities+%E2%9C%A8;Let's+create+something+meaningful+%F0%9F%92%9C"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=21&duration=2300&pause=800&color=0EA5E9&center=true&vCenter=true&width=780&height=55&lines=Have+an+idea%3F+Let's+build+it+together+%F0%9F%9A%80;Let's+create+something+meaningful+%F0%9F%92%9C;You+can+reach+me+through+the+links+below+%E2%9C%A8"
   alt="Connection animation"
 />
 
@@ -584,6 +513,13 @@ image processing solutions
   <img
     src="https://img.shields.io/badge/Gmail-Send%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
     alt="Email"
+  />
+</a>
+
+<a href="https://github.com/sudenazisci">
+  <img
+    src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub profile"
   />
 </a>
 
