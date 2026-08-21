@@ -1,4 +1,4 @@
-![Sude Naz İşçi's Profile Header](https://github-profile-studio-one.vercel.app/api/header?user=sudenazisci&theme=glass-orbit&cardBg=0f172a&border=ffffff&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)
+![Sude Naz İşci's Profile Header](https://github-profile-studio-one.vercel.app/api/header?user=sudenazisci&theme=glass-orbit&cardBg=0f172a&border=ffffff&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)
 
 ## 📊 GitHub Statistics
 
@@ -16,10 +16,6 @@
 
 ![Contributions Activity](https://github-profile-studio-one.vercel.app/api/contributions?user=sudenazisci&theme=glass-orbit&cardBg=0f172a&border=ffffff&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)
 
-## 🛠️ Tech Stack & Ecosystem
-
-![Tech Stack](https://github-profile-studio-one.vercel.app/api/tech-stack?theme=glass-orbit&stack=TypeScript%2CReact%2CNext.js%2CTailwind%20CSS%2CNode.js%2CGraphQL%2CPython%2CDocker&cardBg=0f172a&border=ffffff&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)
-
 ## 🚀 Featured Open Source Projects
 
 - [**GitHubProfileStudio**](https://github.com/sudenazisci/GitHubProfileStudio) - Open source project built with passion and clean code architecture. (★ 0)
@@ -28,6 +24,10 @@
 - [**eliteplants-website**](https://github.com/sudenazisci/eliteplants-website) -  https://sultanberry.com/ (★ 0)
 - [**portfolio-demo**](https://github.com/sudenazisci/portfolio-demo) - Open source project built with passion and clean code architecture. (★ 0)
 - [**CODY**](https://github.com/sudenazisci/CODY) - AI-powered backend for project generation, intelligent chat, programming quizzes, and gamified learning built with FastAPI and Firebase. (★ 0)
+
+## 🛠️ Tech Stack & Ecosystem
+
+![Tech Stack](https://github-profile-studio-one.vercel.app/api/tech-stack?theme=glass-orbit&stack=TypeScript%2CReact%2CNext.js%2CTailwind%20CSS%2CNode.js%2CGraphQL%2CPython%2CDocker&cardBg=0f172a&border=ffffff&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)
 
 ## 📫 Connect With Me
 
