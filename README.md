@@ -1,9 +1,5 @@
 ![Sude Naz İşci's Profile Header](https://github-profile-studio-one.vercel.app/api/header?user=sudenazisci&theme=retro-arcade)
 
-# Hi there, I'm Sude Naz İşci 👋
-
-> Full-Stack Developer | React • Next.js • Flutter • Node.js | Computer Engineer
-
 ## 📊 GitHub Statistics
 
 ![sudenazisci's GitHub Stats](https://github-profile-studio-one.vercel.app/api/stats?user=sudenazisci&theme=retro-arcade)
