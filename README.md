@@ -1,24 +1,24 @@
-![Sude Naz İşci's Profile Header](https://github-profile-studio-one.vercel.app/api/header?user=sudenazisci&theme=retro-arcade)
+![Sude Naz İşci's Profile Header](https://github-profile-studio-one.vercel.app/api/header?user=sudenazisci&theme=glass-orbit)
 
 ## 📊 GitHub Statistics
 
-![sudenazisci's GitHub Stats](https://github-profile-studio-one.vercel.app/api/stats?user=sudenazisci&theme=retro-arcade)
+![sudenazisci's GitHub Stats](https://github-profile-studio-one.vercel.app/api/stats?user=sudenazisci&theme=glass-orbit)
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-profile-studio-one.vercel.app/api/languages?user=sudenazisci&theme=retro-arcade)
+![Top Languages](https://github-profile-studio-one.vercel.app/api/languages?user=sudenazisci&theme=glass-orbit)
 
 ## 🔥 Commit Streak
 
-![Commit Streak](https://github-profile-studio-one.vercel.app/api/streak?user=sudenazisci&theme=retro-arcade)
+![Commit Streak](https://github-profile-studio-one.vercel.app/api/streak?user=sudenazisci&theme=glass-orbit)
 
 ## 📈 Activity Grid
 
-![Contributions Activity](https://github-profile-studio-one.vercel.app/api/contributions?user=sudenazisci&theme=retro-arcade)
+![Contributions Activity](https://github-profile-studio-one.vercel.app/api/contributions?user=sudenazisci&theme=glass-orbit)
 
 ## 🛠️ Tech Stack & Ecosystem
 
-![Tech Stack](https://github-profile-studio-one.vercel.app/api/tech-stack?theme=retro-arcade&stack=TypeScript%2CReact%2CNext.js%2CTailwind%20CSS%2CNode.js%2CGraphQL%2CPython%2CDocker)
+![Tech Stack](https://github-profile-studio-one.vercel.app/api/tech-stack?theme=glass-orbit&stack=TypeScript%2CReact%2CNext.js%2CTailwind%20CSS%2CNode.js%2CGraphQL%2CPython%2CDocker)
 
 ## 🚀 Featured Open Source Projects
 
