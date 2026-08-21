@@ -18,6 +18,8 @@
 
 ## 🚀 Featured Open Source Projects
 
+![Featured Projects](https://github-profile-studio-one.vercel.app/api/projects?user=sudenazisci&theme=glass-orbit&cardBg=0f172a&border=ffffff&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)
+
 - [**GitHubProfileStudio**](https://github.com/sudenazisci/GitHubProfileStudio) - Open source project built with clean code architecture. (★ 0)
 - [**sudenazisci**](https://github.com/sudenazisci/sudenazisci) - Open source project built with clean code architecture. (★ 0)
 - [**travel-blog**](https://github.com/sudenazisci/travel-blog) - A modern full-stack travel blog built with React, Node.js, Express, and MongoDB Atlas. (★ 0)
@@ -31,9 +33,11 @@
 
 ## 📫 Connect With Me
 
-- [Website](https://sudenazisci.dev)
-- [Twitter/X](https://x.com/sudenazisci)
-- [GitHub](https://github.com/sudenazisci)
+![Connect With Me](https://github-profile-studio-one.vercel.app/api/socials?user=sudenazisci&theme=glass-orbit&cardBg=0f172a&border=ffffff&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)
+
+- 🌐 [Website](https://sudenazisci.dev)
+- 🐤 [Twitter/X](https://x.com/sudenazisci)
+- 💻 [GitHub](https://github.com/sudenazisci)
 
 ---
 *Generated with [GitHub Profile Studio](https://github-profile-studio-one.vercel.app) — Build a profile that feels like you.*
