@@ -18,14 +18,12 @@
 
 ## 🚀 Featured Open Source Projects
 
-![Featured Projects](https://github-profile-studio-one.vercel.app/api/projects?user=sudenazisci&theme=glass-orbit&cardBg=0f172a&border=ffffff&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)
-
-- [**GitHubProfileStudio**](https://github.com/sudenazisci/GitHubProfileStudio) - Open source project built with clean code architecture. (★ 0)
-- [**sudenazisci**](https://github.com/sudenazisci/sudenazisci) - Open source project built with clean code architecture. (★ 0)
-- [**travel-blog**](https://github.com/sudenazisci/travel-blog) - A modern full-stack travel blog built with React, Node.js, Express, and MongoDB Atlas. (★ 0)
-- [**eliteplants-website**](https://github.com/sudenazisci/eliteplants-website) -  https://sultanberry.com/ (★ 0)
-- [**portfolio-demo**](https://github.com/sudenazisci/portfolio-demo) - Open source project built with clean code architecture. (★ 0)
-- [**CODY**](https://github.com/sudenazisci/CODY) - AI-powered backend for project generation, intelligent chat, programming quizzes, and gamified learning built with FastAPI and Firebase. (★ 0)
+[![GitHubProfileStudio](https://github-profile-studio-one.vercel.app/api/repo-card?user=sudenazisci&repo=GitHubProfileStudio&theme=glass-orbit&cardBg=0f172a&border=ffffff&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)](https://github.com/sudenazisci/GitHubProfileStudio)
+[![sudenazisci](https://github-profile-studio-one.vercel.app/api/repo-card?user=sudenazisci&repo=sudenazisci&theme=glass-orbit&cardBg=0f172a&border=ffffff&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)](https://github.com/sudenazisci/sudenazisci)
+[![travel-blog](https://github-profile-studio-one.vercel.app/api/repo-card?user=sudenazisci&repo=travel-blog&theme=glass-orbit&cardBg=0f172a&border=ffffff&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)](https://github.com/sudenazisci/travel-blog)
+[![eliteplants-website](https://github-profile-studio-one.vercel.app/api/repo-card?user=sudenazisci&repo=eliteplants-website&theme=glass-orbit&cardBg=0f172a&border=ffffff&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)](https://github.com/sudenazisci/eliteplants-website)
+[![portfolio-demo](https://github-profile-studio-one.vercel.app/api/repo-card?user=sudenazisci&repo=portfolio-demo&theme=glass-orbit&cardBg=0f172a&border=ffffff&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)](https://github.com/sudenazisci/portfolio-demo)
+[![CODY](https://github-profile-studio-one.vercel.app/api/repo-card?user=sudenazisci&repo=CODY&theme=glass-orbit&cardBg=0f172a&border=ffffff&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)](https://github.com/sudenazisci/CODY)
 
 ## 🛠️ Tech Stack & Ecosystem
 
@@ -33,11 +31,7 @@
 
 ## 📫 Connect With Me
 
-![Connect With Me](https://github-profile-studio-one.vercel.app/api/socials?user=sudenazisci&theme=glass-orbit&cardBg=0f172a&border=ffffff&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)
-
-- 🌐 [Website](https://sudenazisci.dev)
-- 🐤 [Twitter/X](https://x.com/sudenazisci)
-- 💻 [GitHub](https://github.com/sudenazisci)
+[![Website](https://github-profile-studio-one.vercel.app/api/badge?label=Website&icon=website&theme=glass-orbit&cardBg=0f172a&border=ffffff&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)](https://sudenazisci.dev) [![Twitter/X](https://github-profile-studio-one.vercel.app/api/badge?label=Twitter%20%2F%20X&icon=twitter&theme=glass-orbit&cardBg=0f172a&border=ffffff&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)](https://x.com/sudenazisci) [![GitHub](https://github-profile-studio-one.vercel.app/api/badge?label=GitHub&icon=github&theme=glass-orbit&cardBg=0f172a&border=ffffff&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)](https://github.com/sudenazisci)
 
 ---
 *Generated with [GitHub Profile Studio](https://github-profile-studio-one.vercel.app) — Build a profile that feels like you.*
