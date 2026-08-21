@@ -1,24 +1,24 @@
-![Sude Naz İşci's Profile Header](https://github-profile-studio-one.vercel.app/api/header?user=sudenazisci&theme=glass-orbit)
+![Sude Naz İşci's Profile Header](https://github-profile-studio-one.vercel.app/api/header?user=sudenazisci&theme=glass-orbit&cardBg=rgba(15, 23, 42, 0.65)&border=rgba(255, 255, 255, 0.12)&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)
 
 ## 📊 GitHub Statistics
 
-![sudenazisci's GitHub Stats](https://github-profile-studio-one.vercel.app/api/stats?user=sudenazisci&theme=glass-orbit)
+![sudenazisci's GitHub Stats](https://github-profile-studio-one.vercel.app/api/stats?user=sudenazisci&theme=glass-orbit&cardBg=rgba(15, 23, 42, 0.65)&border=rgba(255, 255, 255, 0.12)&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)
 
 ## 💻 Top Languages
 
-![Top Languages](https://github-profile-studio-one.vercel.app/api/languages?user=sudenazisci&theme=glass-orbit)
+![Top Languages](https://github-profile-studio-one.vercel.app/api/languages?user=sudenazisci&theme=glass-orbit&cardBg=rgba(15, 23, 42, 0.65)&border=rgba(255, 255, 255, 0.12)&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)
 
 ## 🔥 Commit Streak
 
-![Commit Streak](https://github-profile-studio-one.vercel.app/api/streak?user=sudenazisci&theme=glass-orbit)
+![Commit Streak](https://github-profile-studio-one.vercel.app/api/streak?user=sudenazisci&theme=glass-orbit&cardBg=rgba(15, 23, 42, 0.65)&border=rgba(255, 255, 255, 0.12)&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)
 
 ## 📈 Activity Grid
 
-![Contributions Activity](https://github-profile-studio-one.vercel.app/api/contributions?user=sudenazisci&theme=glass-orbit)
+![Contributions Activity](https://github-profile-studio-one.vercel.app/api/contributions?user=sudenazisci&theme=glass-orbit&cardBg=rgba(15, 23, 42, 0.65)&border=rgba(255, 255, 255, 0.12)&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)
 
 ## 🛠️ Tech Stack & Ecosystem
 
-![Tech Stack](https://github-profile-studio-one.vercel.app/api/tech-stack?theme=glass-orbit&stack=TypeScript%2CReact%2CNext.js%2CTailwind%20CSS%2CNode.js%2CGraphQL%2CPython%2CDocker)
+![Tech Stack](https://github-profile-studio-one.vercel.app/api/tech-stack?theme=glass-orbit&stack=TypeScript%2CReact%2CNext.js%2CTailwind%20CSS%2CNode.js%2CGraphQL%2CPython%2CDocker&cardBg=rgba(15, 23, 42, 0.65)&border=rgba(255, 255, 255, 0.12)&text=f8fafc&secondaryText=cbd5e1&accent=8b5cf6)
 
 ## 🚀 Featured Open Source Projects
 
